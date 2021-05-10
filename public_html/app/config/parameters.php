@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => 'localhost',
+    'database_port' => '',
+    'database_name' => 'thebeautyby_p670',
+    'database_user' => 'thebeautyby_p670',
+    'database_password' => ']9S799pi5-',
+    'database_prefix' => 'pszl_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'm9ambfofbhpt1mebrphucasjuyp6oo9slgvuhjr8m2ew0yag2prufav4',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2020-07-11',
+    'locale' => 'en-US',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'zxb3j45inzj6a2rgpo305f7dhgbc6aonagjt5rrmyqbec1xz5ln4q96m',
+    'cookie_iv' => 'lqihxaeo',
+    'new_cookie_key' => 'def000003c4dd0986175cd62ef865aa8cb83317d27e08d6243607b5621a60f8622ab7a17afac901a4c6086692c401064ae2dfe6b8543c0f04e3d677e4a57ddc1a48b48b2',
+  ),
+);
